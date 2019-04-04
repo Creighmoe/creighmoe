@@ -1,1 +1,1 @@
-# creightonbrines.github.io
+# creightonbrines.github.io/creightonbrines/
