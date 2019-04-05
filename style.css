@@ -1,6 +1,7 @@
 html {
     text-align: center;
-  background-image: url("88298.jpg");
+  background-image: url("background.png");
+  background-repeat: repeat;
 }
   
 html {
