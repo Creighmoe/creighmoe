@@ -1,5 +1,8 @@
 html {
-  <img scr="88298.jpg"></img>
+    text-align: center;
+  background-image: url("88298.jpg");
+}
   
 html {
   font-family: "Courier New", time, monospace;
+}
